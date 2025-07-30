@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: hemantpra/frontend:latest
+          image: hemantpra/frontend:new2
           ports:
             - containerPort: 3000
